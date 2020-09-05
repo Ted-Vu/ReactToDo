@@ -2,7 +2,7 @@
 This is a project to follow along with React tutorial from DevEd 
 
 # Development Tools and Technologies: 
-Framework: ReactJS
+Framework: ReactJS <br>
 Deploy Platform: Heroku 
 
 # Link:
